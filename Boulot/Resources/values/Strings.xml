@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="Hello">Hello World, Click Me!</string>
+  <string name="ApplicationName">Boulot Application</string>
+  <string name="action_search">Search</string>
+  <string name="action_share">Share</string>
+  <string name="action_email">Email</string>
+  <string name="action_1">Action 1</string>
+  <string name="action_2">Action 2</string>
+  <string name="action_3">Action 3</string>
+  <string name="app_name">Boulot Application</string>
+  <string name="GoogleKey">AIzaSyANJ5QpCtiDnfs1F6Gk-vURGOBJfBXDhWo</string>
+</resources>
